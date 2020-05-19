@@ -1,2 +1,3 @@
 # hello-world
-it is a repository for learning
+it is repository for learning
+Hello everyone, I like pizza and cheese
